@@ -1,6 +1,6 @@
-# Welcome to DB-Sneaks
+# Welcome to db Sneak Shop
 
-DB-Sneaks is an e-commerce website specializing in the sale of shoes and sneakers. With a wide range of footwear options, from athletic sneakers to fashionable shoes, DB-Sneaks aims to provide customers with quality products and a seamless shopping experience.
+db Sneak Shop is an e-commerce website specializing in selling shoes and sneakers. With a wide range of footwear options, from athletic sneakers to fashionable shoes, db Sneak Shop aims to provide customers with quality products and a seamless shopping experience.
 
 ## Features
 
@@ -23,18 +23,18 @@ DB-Sneaks is an e-commerce website specializing in the sale of shoes and sneaker
 
 ## Installation
 
-To run DB-Sneaks locally, follow these steps:
+To run db Sneak Shop locally, follow these steps:
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/db-sneaks.git
+git clone https://github.com/your-username/db Sneak Shop.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd db-sneaks
+cd db Sneak Shop
 ```
 
 3. Install dependencies:
@@ -53,7 +53,7 @@ npm start
 
 ## Contributing
 
-We welcome contributions from the community! If you would like to contribute to DB-Sneaks, please follow these guidelines:
+We welcome contributions from the community! If you would like to contribute to db Sneak Shop, please follow these guidelines:
 
 1. Fork the repository and create a new branch for your feature or bug fix.
 2. Make your changes and ensure the code is well-documented.
@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please contact us at support@dbsneaks.com. We'd love to hear from you!
 
-Happy shopping with DB-Sneaks! 🛍️👟
+Happy shopping with db Sneak Shop! 🛍️👟
